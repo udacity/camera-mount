@@ -1,7 +1,10 @@
-# Point Grey Camera Mount
+<img src="images/cover.png" alt="Mount Rendering" width="800px">
 
-<img src="images/render.png" alt="Mount Rendering" style="width: 250px;" alight="left"/>
+##Challenge #1
 
+We beta tested our first challenge with a small set of Udacity students and self-driving car enthusiasts. The challenge was to create a 3D model for a mount for our Point Grey cameras to hook in to a GoPro mount.
+
+You can read more information [about the results of this challenge here](https://medium.com/p/f5ffcc1655b5).
 
 ## Hardware 
 
@@ -9,4 +12,7 @@
 * Fujinon 12.5mm focal length C-mount lens (Fujinon CF12.5HA-1)
 
 ## Contributors 
-[Haden Wasserbaech](https://github.com/spartanhaden)
+[@ericrgon](https://twitter.com/ericrgon)<br>
+[@macjshiggins](https://twitter.com/macjshiggins)<br>
+[@olivercameron](https://twitter.com/olivercameron)<br>
+[@spartanhaden](https://twitter.com/spartanhaden)<br>
