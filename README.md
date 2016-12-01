@@ -8,8 +8,8 @@ You can read more information [about the results of this challenge here](https:/
 
 ## Hardware 
 
-* Blackfly GigE Camera (BFLY-PGE-23S6C-C)
-* Fujinon 12.5mm focal length C-mount lens (Fujinon CF12.5HA-1)
+* Blackfly GigE Camera ([BFLY-PGE-23S6C-C](https://www.ptgrey.com/blackfly-23-mp-color-gige-poe-sony-pregius-imx249))
+* Fujinon 12.5mm focal length C-mount lens ([Fujinon CF12.5HA-1](http://www.fujifilmusa.com/products/optical_devices/machine-vision/1-15-mp/cf125ha-1))
 
 ## Contributors 
 [@ericrgon](https://twitter.com/ericrgon)<br>
