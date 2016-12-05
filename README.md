@@ -1,5 +1,5 @@
 <div align="center">
-  ![Mount Rendering](/images/cover.png)
+  <img src="images/cover.png" alt="Mount Rendering" width="800px">
 </div>
 
 ## Challenge #1
